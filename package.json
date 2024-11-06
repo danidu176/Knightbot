@@ -24,7 +24,7 @@
     "knightbot-whatsapp-bot",
     "github-whatsapp-bot"
   ],
-  "author": "",
+  "author": "Danidu",
   "license": "ISC",
   "dependencies": {
     "@hapi/boom": "^10.0.1",
